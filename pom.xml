@@ -39,6 +39,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>FirstApplication</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
